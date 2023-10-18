@@ -2,9 +2,9 @@
 
 import math
 
-pi = 22/7
-degree = 15
-radian = degree * (pi / 180)
+pi = 22/7 # Approximation of pi
+degree = 15 # Angle in degrees
+radian = degree * (pi / 180) #Convert degree to radian
 print("Degree: ",degree)
 print(radian)
 
